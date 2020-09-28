@@ -41,6 +41,8 @@ Then you can create a dali-env folder in your home folder with:
          $ dali-core/build/scripts/dali_env -c
 
 This will also download any dependencies that the dali repositories require.
+For ArchLinux users the equivalente required dependencies can be found at
+[dependencies.md](dependencies.md).
 
 You can save the environment variables to a file:
 
